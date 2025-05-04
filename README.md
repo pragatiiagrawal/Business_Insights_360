@@ -54,7 +54,7 @@ The Snowflake schema organizes data into related tables, ensuring high performan
 ## 🏠 Home Page  
    A streamlined homepage provides a welcoming introduction and easy navigation to each department’s view, enhancing user experience.
 
-   ![Home Page Preview](https://github.com/user-attachments/assets/7a2f5ab4-769d-4a28-a995-03637b195093)
+   ![Home Page Preview](https://github.com/user-attachments/assets/15b89824-0327-45d0-81d9-f3ac2a51bdb1)
 
 ## 💰 Finance View   
    The **P&L Statement** allows for quick analysis of financial performance by region, customer, and product, helping users identify revenue and cost trends.
