@@ -45,7 +45,7 @@ The project integrates various data sources to provide comprehensive insights:
 
 The Snowflake schema organizes data into related tables, ensuring high performance and scalability for analytics.
 
-![Data Model Diagram](https://github.com/user-attachments/assets/e646449b-4bf4-4a20-a3df-4bb5652b39fa)
+![Data Model Diagram](https://github.com/pragatiiagrawal/Business_Insights_360/blob/05ba4b0de0e61bdfd3ba730d7ad08477ab4f9b5a/Data%20Model%20Diagram.png)
 
 ---
 
