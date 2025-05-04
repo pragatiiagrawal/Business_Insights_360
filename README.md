@@ -1,6 +1,6 @@
 # 🌐 **Business-Insights-360**
 
-### 🔗 [**Dashboard Link**](https://bit.ly/4gkfp8y)
+### 🔗 [**Live Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiY2NmNzgyNTYtYTAzNS00ODRjLWEwNzYtMDBiMDM2Mzg2OGYyIiwidCI6IjRhMjQyMDI5LTEwMmEtNDI5Ni1iYTY3LTAwNzUxNDEyZjUwYiJ9)  
 
 ---
 
