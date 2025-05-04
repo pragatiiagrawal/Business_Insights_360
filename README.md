@@ -59,7 +59,7 @@ The Snowflake schema organizes data into related tables, ensuring high performan
 ## 💰 Finance View   
    The **P&L Statement** allows for quick analysis of financial performance by region, customer, and product, helping users identify revenue and cost trends.
 
-   ![Finance View]!(https://github.com/user-attachments/assets/601e5186-5dd0-43c3-b1a2-4c79fc52022c)
+   ![Finance View](https://github.com/user-attachments/assets/a62e57d3-695e-448a-ad0a-8b147b72c66a)
 
 ## 📈 Sales View  
    Focused on **Net Sales**, **Gross Margin**, and **Profitability**, the sales view includes an interactive **Growth Matrix** to track performance and assess profitability.
