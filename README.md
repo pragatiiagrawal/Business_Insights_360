@@ -65,7 +65,7 @@ The Snowflake schema organizes data into related tables, ensuring high performan
    Focused on **Net Sales**, **Gross Margin**, and **Profitability**, the sales view includes an interactive **Growth Matrix** to track performance and assess profitability.
 
    ![Sales View](https://github.com/user-attachments/assets/2fa9bee3-3870-4af9-aec2-47c978be3468)
-![Sales Tooltip](https://github.com/user-attachments/assets/5136f66a-ec82-441d-90d4-4cdf826d8820)
+![Sales Tooltip]<img width="637" alt="Image" src="https://github.com/user-attachments/assets/2daa77bc-46a7-4ef5-9fad-0dc6dc912ab3" />
 ## 📢 Marketing View  
    A detailed analysis of product performance using metrics like **Net Sales** and **Gross Margin** helps optimize marketing strategies.
 
