@@ -1,7 +1,7 @@
 # 🌐 **Business-Insights-360**
 
 ### 🔗 [**Live Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiY2NmNzgyNTYtYTAzNS00ODRjLWEwNzYtMDBiMDM2Mzg2OGYyIiwidCI6IjRhMjQyMDI5LTEwMmEtNDI5Ni1iYTY3LTAwNzUxNDEyZjUwYiJ9)  
-### 📥 [** Download Dashboard PDF –Business_Insights_360**](https://github.com/pragatiiagrawal/Business_Insights_360/blob/f6261d1d33004cc86036f0f27288c1419fc28513/Business_Insights_360.pdf)
+### 📥 [**Download Dashboard PDF – Business_Insights_360**](https://github.com/pragatiiagrawal/Business_Insights_360/blob/f6261d1d33004cc86036f0f27288c1419fc28513/Business_Insights_360.pdf)
 
 
 ## 🏢 **Company Overview**
