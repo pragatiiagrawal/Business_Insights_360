@@ -1,33 +1,27 @@
-# 📊 **Business-Insights-360**
+# 🌐 **Business-Insights-360**
 
 ### 🔗 [**Dashboard Link**](https://bit.ly/4gkfp8y)  
-### 🎥 [**Dashboard Video Walkthrough**](https://1drv.ms/v/c/2449c1e3aabe59cb/EQc6ZWsh96FDv5eOYCwRFbUBmmIvauCOdL6P35bboa-Eow)
 
 ---
 
-## 🧩 **Problem Overview**
+## ⚠️ Problem Statement
 
-This project, developed as part of the **Power BI course at Codebasics**, aims to build a robust **business intelligence system** for **AtliQ**, a rapidly growing global company.
+* AtliQ relied on Excel-based analytics, leading to time-consuming, error-prone, and inefficient reporting.  
+* Growing global operations increased data complexity, exposing the limits of their current tools.  
+* Lack of real-time visibility and a scalable system delayed decision-making and strategic planning.  
+* Key regions like LATAM faced financial losses due to slow, inconsistent insights.  
+* The analytics team was tasked with building a dynamic BI system to provide actionable, real-time insights across business functions.
 
-- **AtliQ** relied on **Excel** for data analytics, resulting in **time-consuming**, **error-prone**, and **inefficient** reports.
-- The company faced **growing data complexity** with operations expanding across multiple countries.
-- There was a lack of a **scalable system** and **real-time visibility** into business performance.
-- **Excel** slowed down analytics, causing delays and **hindering decision-making**.
-- Insights were lacking in **depth**, **consistency**, and **speed**, with the **Latin American market** experiencing **financial losses** due to delayed decisions.
-- **Strategic planning** was hindered by **poor data visibility**, prompting the transition to **Power BI** for **dynamic**, **real-time**, and **actionable insights**.
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/3d3dfc1d-d10a-441e-a0a7-bb795d79051f)
 
 
-## 🎯 **Project Objectives**
+## 🎯 Objective
 
-The project aimed to overhaul AtliQ’s reporting and analytics process by leveraging **Power BI**.
-
-- Replace **Excel-based analysis** with modern **BI dashboards**.  
-- Create an **interactive** and **department-wise view** of **key metrics**.  
-- Provide **real-time insights** to **management** and **stakeholders**.  
-- Support **faster**, **data-driven decisions** across business functions.  
-- Improve **operational efficiency** and **minimize reporting delays**.
+* Modernize AtliQ’s reporting by replacing Excel-based analysis with interactive Power BI dashboards.  
+* Create department-wise views to monitor Finance, Sales, Marketing, and Supply Chain performance.  
+* Deliver real-time insights to management for faster, data-driven decision-making.  
+* Improve reporting efficiency and reduce delays through centralized, scalable analytics.
 
 ---
 
@@ -140,24 +134,24 @@ The development of this Power BI dashboard followed a structured approach involv
 
 ---
 
-## 🔧 **Technical Stack**
+## 👩‍💻 Tech Stack
 
-- **Power BI:** For building dynamic dashboards and interactive reporting  
-- **MySQL:** Primary database for storing structured data  
-- **ETL Tools:** Python and SQL for data extraction and transformation  
-- **DAX:** Used to implement calculated columns, measures, and KPIs  
-- **Power BI Service:** For publishing, sharing, and managing report updates  
-- **Snowflake Schema:** Adopted for efficient data modeling and performance
+- **Data Visualization**: Power BI  
+- **Data Analysis**: SQL  
+- **Data Modeling**: Snowflake Schema  
+- **Tools**: Power BI Desktop, Power BI Service (for report sharing), Excel, PowerPoint
+
 
 ---
 
-## 💡 **Insights**
+## 💡 Key Insights
 
-- **Finance:** Net profit is declining despite growing sales—indicating rising operational costs.  
-- **Sales:** Major clients like Amazon and Flipkart contribute the most revenue; smaller accounts underperform.  
-- **Marketing:** Regional inefficiencies, especially in the Gaming category and APAC region, are impacting margins.  
-- **Supply Chain:** Forecast accuracy is moderate; LATAM and India face inventory issues.  
-- **Executive Summary:** Market share is improving, but profitability is tightening. Growth is strong in PCs and in regions like North America and India.
+* **Finance:** Net profit is declining despite rising sales, signaling increasing operational costs.  
+* **Sales:** Amazon and Flipkart are top contributors to revenue, while smaller accounts continue to underperform.  
+* **Marketing:** APAC region and Gaming category show inefficiencies, dragging down marketing ROI.  
+* **Supply Chain:** Forecast accuracy remains moderate, with inventory challenges in LATAM and India.  
+* **Growth Trends:** Market share is expanding, especially in PCs and regions like North America and India, but overall profitability is tightening.
+
 
 ---
 
