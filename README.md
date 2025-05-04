@@ -64,22 +64,22 @@ The Snowflake schema organizes data into related tables, ensuring high performan
 ## 📈 Sales View  
    Focused on **Net Sales**, **Gross Margin**, and **Profitability**, the sales view includes an interactive **Growth Matrix** to track performance and assess profitability.
 
-   ![Sales View](https://github.com/user-attachments/assets/66bcd1a1-9c17-43c3-ab4b-dc6b6f6475d7)
+   ![Sales View](https://github.com/user-attachments/assets/2fa9bee3-3870-4af9-aec2-47c978be3468)
 
 ## 📢 Marketing View  
    A detailed analysis of product performance using metrics like **Net Sales** and **Gross Margin** helps optimize marketing strategies.
 
-   ![Marketing View](https://github.com/user-attachments/assets/08877d77-9aa8-4d32-8c14-1e26c143b5a4)
+   ![Marketing View](https://github.com/user-attachments/assets/7f5dbc65-509f-4aa4-8c0a-7ad560c9ef08)
 
 ## 🚚 Supply Chain View   
    Key metrics like **Forecast Accuracy** and **Risk Profiles** are tracked, enabling proactive supply chain optimization and risk management.
 
-   ![Supply Chain View](https://github.com/user-attachments/assets/edade995-8d7b-4ea7-947f-f36a2a1117ca)
+   ![Supply Chain View](https://github.com/user-attachments/assets/d879dcfc-107f-4adc-9a7c-4b9ef8f886f4)
 
 ## 👔Executive View   
    A consolidated view for senior leadership that highlights key performance metrics across all business functions for strategic decision-making.
 
-   ![Executive View](https://github.com/user-attachments/assets/77a5f7fb-691a-40ae-8014-aa0b3d4ab101)
+   ![Executive View](https://github.com/user-attachments/assets/2c45ac3f-b317-4005-881a-de0d06fc6af4)
 
 ---
 
